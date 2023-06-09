@@ -1,6 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T14:07:48.244Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.7" etag="FpNik_YcaHnoReRIf7eR" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T16:30:28.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jc14TlDqC5-prAKt2WGY" version="21.3.7" type="github" pages="4">
   <diagram name="Page-1" id="EWQNvHxeLvLBuGiXgUyj">
-    <mxGraphModel>
+    <mxGraphModel dx="1236" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sULGiBJjoTXyY80c-7dW-1" value="user" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="134" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sULGiBJjoTXyY80c-7dW-3" value="Aplikasi Mobile E-Commerce Bersistem Barter Berbasis Android" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="285" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sULGiBJjoTXyY80c-7dW-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sULGiBJjoTXyY80c-7dW-1" target="sULGiBJjoTXyY80c-7dW-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="360" as="sourcePoint" />
+            <mxPoint x="580" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sULGiBJjoTXyY80c-7dW-6" value="&lt;div style=&quot;&quot;&gt;Data Login User&lt;br&gt;Data Produk&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Data Detail Produk&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Data Barter&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Data Detail Barter&lt;br&gt;Data User&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Data Konfirmasi Barter&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Data &lt;i&gt;Message&lt;/i&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sULGiBJjoTXyY80c-7dW-4">
+          <mxGeometry x="-0.6132" relative="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sULGiBJjoTXyY80c-7dW-5" value="Info Login User&lt;br&gt;Info Produk&lt;br&gt;Info Detail Produk&lt;br&gt;Info Barter&lt;br&gt;Info Detai Barter&lt;br&gt;Info Data User&lt;br&gt;Info Konfirmasi Barter&lt;br&gt;Info &lt;i&gt;Message&lt;/i&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=left;" edge="1" parent="1" source="sULGiBJjoTXyY80c-7dW-3" target="sULGiBJjoTXyY80c-7dW-1">
+          <mxGeometry x="0.4607" y="40" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="510" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="360" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ucQt48m17FhVyRiafpqL" name="Page-2">
+    <mxGraphModel dx="870" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4yDH3WROI3oc6Q0G1w5K-1" value="USER" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4yDH3WROI3oc6Q0G1w5K-2" value="Aplikasi Mobile E-Commerce Bersistem Barter Berbasis Android" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="204" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4yDH3WROI3oc6Q0G1w5K-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4yDH3WROI3oc6Q0G1w5K-1" target="4yDH3WROI3oc6Q0G1w5K-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="370" as="sourcePoint" />
+            <mxPoint x="600" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yDH3WROI3oc6Q0G1w5K-5" value="&lt;i&gt;Registration Request&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4yDH3WROI3oc6Q0G1w5K-3">
+          <mxGeometry x="-0.1334" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yDH3WROI3oc6Q0G1w5K-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.039;exitY=0.683;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="4yDH3WROI3oc6Q0G1w5K-2" target="4yDH3WROI3oc6Q0G1w5K-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+            <mxPoint x="700" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yDH3WROI3oc6Q0G1w5K-6" value="&lt;i&gt;Response&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4yDH3WROI3oc6Q0G1w5K-4">
+          <mxGeometry x="0.1366" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TOChMzMAPM6m8vWdVhOZ" name="Page-3">
+    <mxGraphModel dx="1174" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TXD1dvKuoSLH6tlMSp-Y" name="Page-4">
+    <mxGraphModel dx="1174" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
