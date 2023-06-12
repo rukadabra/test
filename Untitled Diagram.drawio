@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T14:47:39.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="y7Vd5fzASgmekN21l-fU" version="21.3.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-06-12T14:54:19.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="u3efxsOsNsP_h0yBt0W-" version="21.3.7" type="github" pages="10">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1488,8 +1488,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Tqif3EF3JCsyJNVh1j0Q" name="login nomor handphone">
-    <mxGraphModel dx="1706" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="Tqif3EF3JCsyJNVh1j0Q" name="login aplikasu">
+    <mxGraphModel dx="1405" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
