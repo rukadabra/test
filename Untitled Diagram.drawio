@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T15:36:39.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zTqok_rNXR-JZ2anb4u2" version="21.3.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-12T15:38:00.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="--JchfjImYC8ugsFzCPK" version="21.3.7" type="github" pages="11">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1739,8 +1739,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8Ojt-pjlW9oZ-4wImVTe" name="Page-11">
-    <mxGraphModel dx="724" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="8Ojt-pjlW9oZ-4wImVTe" name="pilih produk">
+    <mxGraphModel dx="1038" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
