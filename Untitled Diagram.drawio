@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T16:00:02.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xKkUbFoU9ui840i4_Pyr" version="21.3.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-12T16:00:52.019Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PUdmXOLkfJuzCDbWe4S_" version="21.3.7" type="github" pages="11">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1849,8 +1849,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="D1BOuC6ZNBwTgiVItF0x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D1BOuC6ZNBwTgiVItF0x-17" target="D1BOuC6ZNBwTgiVItF0x-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1BOuC6ZNBwTgiVItF0x-17" value="memilih tombol konfirmasi barter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304" y="548" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D1BOuC6ZNBwTgiVItF0x-21" value="Permintaan&amp;nbsp;&lt;br&gt;barter" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="132" y="543" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
