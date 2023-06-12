@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T16:28:39.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="57QIm8SfNq3s-oBJhhHk" version="21.3.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-06-12T16:28:48.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rNfDD9ELaIAv2c_u8qb8" version="21.3.7" type="github" pages="12">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1916,7 +1916,7 @@
         </mxCell>
         <mxCell id="9vBLYVICPJ4pZQv4PF1C-37" value="TIDAK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9vBLYVICPJ4pZQv4PF1C-36">
           <mxGeometry x="-0.0009" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="10" as="offset" />
+            <mxPoint x="2" y="35" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9vBLYVICPJ4pZQv4PF1C-17" value="Konfirmasi &lt;br&gt;permintaan barter" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
