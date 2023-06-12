@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T14:27:44.442Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NrbIzyAYrTYVTEWKisUD" version="21.3.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-12T14:31:36.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4ut8GjVKvOpbVbSytQRh" version="21.3.7" type="github" pages="10">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1488,8 +1488,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Tqif3EF3JCsyJNVh1j0Q" name="Page-9">
-    <mxGraphModel dx="995" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="Tqif3EF3JCsyJNVh1j0Q" name="login nomor handphone">
+    <mxGraphModel dx="1038" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1497,25 +1497,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="275" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-5" target="NQxFz2c9QB85la84ubaw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-5" value="membuka aplikasi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="200" width="125" height="50" as="geometry" />
+          <mxGeometry x="252.5" y="120" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-7" target="NQxFz2c9QB85la84ubaw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-7" value="memilih login dengan nomor handphone" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="290" width="125" height="50" as="geometry" />
+          <mxGeometry x="252.5" y="210" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-8" target="d-to88pkFZsIdz-LJk6h-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-8" value="memasukkan nomor handphone aktif" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="389" width="125" height="50" as="geometry" />
+          <mxGeometry x="252.5" y="309" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-9" target="d-to88pkFZsIdz-LJk6h-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1527,7 +1527,7 @@
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-9" target="d-to88pkFZsIdz-LJk6h-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="785" y="639" as="targetPoint" />
+            <mxPoint x="660" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-33" value="tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d-to88pkFZsIdz-LJk6h-31">
@@ -1536,7 +1536,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-9" value="User terdaftar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="720" y="439" width="130" height="100" as="geometry" />
+          <mxGeometry x="640" y="359" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-2" target="d-to88pkFZsIdz-LJk6h-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1545,16 +1545,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-2" value="Data User Terdaftar" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="100" height="60" as="geometry" />
+          <mxGeometry x="475" y="170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-4" target="d-to88pkFZsIdz-LJk6h-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-4" value="User berhasil login dan diarahkan ke halaman utama" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="464" width="125" height="50" as="geometry" />
+          <mxGeometry x="815" y="382" width="125" height="54" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-11" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="922.5" y="750" width="80" height="40" as="geometry" />
+          <mxGeometry x="837.5" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-14" target="d-to88pkFZsIdz-LJk6h-17">
           <mxGeometry relative="1" as="geometry" />
@@ -1566,10 +1566,10 @@
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-14" target="NQxFz2c9QB85la84ubaw-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="540" as="targetPoint" />
+            <mxPoint x="145" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="355" y="540" />
-              <mxPoint x="355" y="414" />
+              <mxPoint x="230" y="460" />
+              <mxPoint x="230" y="334" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1579,13 +1579,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-14" value="Data benar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="375" y="490" width="130" height="100" as="geometry" />
+          <mxGeometry x="250" y="410" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-17" target="d-to88pkFZsIdz-LJk6h-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-17" value="Memasukkan kode OTP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="640" width="125" height="50" as="geometry" />
+          <mxGeometry x="252.5" y="560" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-23" target="NQxFz2c9QB85la84ubaw-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1604,14 +1604,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-23" value="Kode OTP sesuai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="580" y="610" width="130" height="100" as="geometry" />
+          <mxGeometry x="455" y="530" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-32" target="d-to88pkFZsIdz-LJk6h-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-32" value="User berhasil login dengan akun default yang terdaftar langsung saat pengecekan user dan diarahkan ke halaman utama" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="635" width="140" height="115" as="geometry" />
+          <mxGeometry x="635" y="555" width="140" height="115" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MacsDlV3CG9b8kg-K-Op" name="Page-10">
+    <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
