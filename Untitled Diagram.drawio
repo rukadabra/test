@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T05:56:56.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="p1xv4iYUWIlK8Grsjsay" version="21.3.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-12T14:17:51.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="h5J7KNcczRGsmgFlavhk" version="21.3.7" type="github" pages="9">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1489,7 +1489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tqif3EF3JCsyJNVh1j0Q" name="Page-9">
-    <mxGraphModel dx="1327" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1511,10 +1511,8 @@
         <mxCell id="NQxFz2c9QB85la84ubaw-7" value="memilih login dengan nomor handphone" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="290" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="d-to88pkFZsIdz-LJk6h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-8" target="NQxFz2c9QB85la84ubaw-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="480" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="d-to88pkFZsIdz-LJk6h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-8" target="d-to88pkFZsIdz-LJk6h-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-8" value="memasukkan nomor handphone aktif" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="389" width="125" height="50" as="geometry" />
@@ -1528,22 +1526,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-9" value="Data benar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="375" y="490" width="130" height="100" as="geometry" />
+          <mxGeometry x="942.5" y="370" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="d-to88pkFZsIdz-LJk6h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-2" target="NQxFz2c9QB85la84ubaw-9">
+        <mxCell id="d-to88pkFZsIdz-LJk6h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-2" target="d-to88pkFZsIdz-LJk6h-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-2" value="Data User Terdaftar" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="600" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-4" target="d-to88pkFZsIdz-LJk6h-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-4" value="User berhasil login dan diarahkan ke halaman utama" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="630" width="125" height="50" as="geometry" />
+          <mxGeometry x="690" y="410" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-11" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="712.5" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d-to88pkFZsIdz-LJk6h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d-to88pkFZsIdz-LJk6h-14" target="d-to88pkFZsIdz-LJk6h-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d-to88pkFZsIdz-LJk6h-14" value="Data benar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="490" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d-to88pkFZsIdz-LJk6h-17" value="Memasukkan kode OTP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="640" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
