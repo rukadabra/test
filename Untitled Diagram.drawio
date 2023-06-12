@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T14:31:36.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4ut8GjVKvOpbVbSytQRh" version="21.3.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-06-12T14:43:35.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="p3TR0-j-Hcd3QAiPok94" version="21.3.7" type="github" pages="10">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1194" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1489,7 +1489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tqif3EF3JCsyJNVh1j0Q" name="login nomor handphone">
-    <mxGraphModel dx="1038" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1500,6 +1500,9 @@
           <mxGeometry x="275" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-5" target="NQxFz2c9QB85la84ubaw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzl6wt-WnAu6LD81m1Hp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQxFz2c9QB85la84ubaw-5" target="hzl6wt-WnAu6LD81m1Hp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NQxFz2c9QB85la84ubaw-5" value="membuka aplikasi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -1611,6 +1614,15 @@
         </mxCell>
         <mxCell id="d-to88pkFZsIdz-LJk6h-32" value="User berhasil login dengan akun default yang terdaftar langsung saat pengecekan user dan diarahkan ke halaman utama" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="635" y="555" width="140" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="hzl6wt-WnAu6LD81m1Hp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hzl6wt-WnAu6LD81m1Hp-1" target="hzl6wt-WnAu6LD81m1Hp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzl6wt-WnAu6LD81m1Hp-1" value="memilih login dengan email" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="120" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hzl6wt-WnAu6LD81m1Hp-3" value="memilih login dengan email" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="220" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
