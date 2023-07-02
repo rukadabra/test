@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T15:42:16.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="InO5Qpkom8GUoIe4EssO" version="21.3.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-07-02T15:52:01.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3P7QZxi4te9SjpLMdwZj" version="21.3.5" type="github" pages="12">
   <diagram name="Page-1" id="drj0vsMXfJXtoi-SD7gC">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1730,11 +1730,11 @@
         <mxCell id="FFXqN4WkAH6OxAZ84l3b-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="FFXqN4WkAH6OxAZ84l3b-70" source="FFXqN4WkAH6OxAZ84l3b-73" target="FFXqN4WkAH6OxAZ84l3b-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FFXqN4WkAH6OxAZ84l3b-73" value="memilih login dengan &lt;br&gt;nomor handphone" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FFXqN4WkAH6OxAZ84l3b-70">
+        <mxCell id="FFXqN4WkAH6OxAZ84l3b-73" value="memilih login dengan &lt;br&gt;nomor handphone&lt;br&gt;&amp;nbsp;atau Email" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FFXqN4WkAH6OxAZ84l3b-70">
           <mxGeometry x="10.999999999999545" y="119" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FFXqN4WkAH6OxAZ84l3b-74" value="memasukkan nomor &lt;br&gt;handphone aktif" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FFXqN4WkAH6OxAZ84l3b-70">
-          <mxGeometry x="12.25" y="208" width="177.5" height="60" as="geometry" />
+        <mxCell id="FFXqN4WkAH6OxAZ84l3b-74" value="memasukkan nomor &lt;br&gt;handphone aktif&amp;nbsp;&lt;br&gt;atau email dan &lt;br&gt;password" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FFXqN4WkAH6OxAZ84l3b-70">
+          <mxGeometry x="12.25" y="208" width="177.5" height="82" as="geometry" />
         </mxCell>
         <mxCell id="FFXqN4WkAH6OxAZ84l3b-75" value="Memasukkan kode OTP" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="FFXqN4WkAH6OxAZ84l3b-70">
           <mxGeometry x="8" y="493" width="177.5" height="60" as="geometry" />
